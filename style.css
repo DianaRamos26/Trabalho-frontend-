@@ -1,0 +1,41 @@
+body {
+    background-color: #920c5f; /* Cor de fundo vinho */
+}
+
+.card {
+    background-color: #920c5f;
+}
+
+.color {
+    background: #3ae410;
+    border-color: #3ae410;
+}
+
+.color-simple {
+    color: #3ae410;
+}
+
+.bi {
+    color: black;
+}
+
+.btn.rounded-circle {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-group-item {
+    border: none;
+    border-bottom: 1px solid #3ae410;
+}
+
+.list-group-item:last-child {
+    border-bottom: none #05c221
+}
+
+.list-group-item i {
+    font-size: 1.2rem;
+}
